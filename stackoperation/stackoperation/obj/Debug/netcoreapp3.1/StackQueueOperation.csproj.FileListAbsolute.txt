@@ -1,0 +1,14 @@
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.csproj.AssemblyReference.cache
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.AssemblyInfoInputs.cache
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.AssemblyInfo.cs
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.csproj.CoreCompileInputs.cache
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\StackQueueOperation.exe
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\StackQueueOperation.deps.json
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\StackQueueOperation.runtimeconfig.json
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\StackQueueOperation.runtimeconfig.dev.json
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\StackQueueOperation.dll
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\StackQueueOperation.pdb
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.dll
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.pdb
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\StackQueueOperation.genruntimeconfig.cache

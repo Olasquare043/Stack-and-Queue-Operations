@@ -1,0 +1,14 @@
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\stackoperation.exe
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\stackoperation.deps.json
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\stackoperation.runtimeconfig.json
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\stackoperation.runtimeconfig.dev.json
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\stackoperation.dll
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\bin\Debug\netcoreapp3.1\stackoperation.pdb
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.csproj.AssemblyReference.cache
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.AssemblyInfoInputs.cache
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.AssemblyInfo.cs
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.csproj.CoreCompileInputs.cache
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.dll
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.pdb
+C:\Users\Olasquare\source\repos\stackoperation\stackoperation\obj\Debug\netcoreapp3.1\stackoperation.genruntimeconfig.cache
